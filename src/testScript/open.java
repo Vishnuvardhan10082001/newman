@@ -19,7 +19,7 @@ public class open extends BaseClass {
      
 		Homepage hm=new Homepage(driver);
 		hm.setMen();
-      System.out.println("hi");
+      
 	}
 
 }
